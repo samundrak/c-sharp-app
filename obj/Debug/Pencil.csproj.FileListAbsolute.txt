@@ -1,0 +1,12 @@
+C:\Users\samundra\source\repos\Pencil\Pencil\bin\Debug\Pencil.exe.config
+C:\Users\samundra\source\repos\Pencil\Pencil\bin\Debug\Pencil.exe
+C:\Users\samundra\source\repos\Pencil\Pencil\bin\Debug\Pencil.pdb
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.csprojAssemblyReference.cache
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.AddCompany.resources
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.Form1.resources
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.Properties.Resources.resources
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.csproj.GenerateResource.cache
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.csproj.CoreCompileInputs.cache
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.exe
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.pdb
+C:\Users\samundra\source\repos\Pencil\Pencil\obj\Debug\Pencil.ListPencils.resources
